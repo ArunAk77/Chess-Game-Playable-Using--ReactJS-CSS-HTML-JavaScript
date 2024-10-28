@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Chess-Game-Playable-Using--ReactJS-CSS-HTML-JavaScript/static/css/main.6759f842.css",
+    "main.js": "/Chess-Game-Playable-Using--ReactJS-CSS-HTML-JavaScript/static/js/main.46878d87.js",
+    "index.html": "/Chess-Game-Playable-Using--ReactJS-CSS-HTML-JavaScript/index.html",
+    "main.6759f842.css.map": "/Chess-Game-Playable-Using--ReactJS-CSS-HTML-JavaScript/static/css/main.6759f842.css.map",
+    "main.46878d87.js.map": "/Chess-Game-Playable-Using--ReactJS-CSS-HTML-JavaScript/static/js/main.46878d87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6759f842.css",
+    "static/js/main.46878d87.js"
+  ]
+}
